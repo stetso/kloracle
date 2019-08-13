@@ -1,0 +1,19 @@
+{
+  "name": "kloracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {},
+  "prettier": {
+    "singleQuote": true,
+    "tabWidth": 2
+  }
+}
